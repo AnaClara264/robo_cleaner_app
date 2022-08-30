@@ -14,7 +14,7 @@ class AlertActivity : AppCompatActivity() {
 
         val buttonAlert: TextView = findViewById(R.id.button_alert)
         buttonAlert.setOnClickListener {
-            val intent = Intent(this@AlertActivity, AmbienteActivity::class.java)
+            val intent = Intent(this@AlertActivity, BluetoothActivity::class.java)
             startActivity(intent)
         }
     }
