@@ -52,7 +52,7 @@ class AmbienteActivity : AppCompatActivity() {
     private fun next() {
         val nextAmbiente: Button = findViewById(R.id.next_ambiente)
         val radioGroup: RadioGroup = findViewById(R.id.ambiente)
-        var time = 6000
+        var time = 60000
 
         if (radioGroup.getCheckedRadioButtonId() == -1) {
             val window1 = PopupWindow(this)
