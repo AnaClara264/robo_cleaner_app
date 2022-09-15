@@ -16,7 +16,7 @@
         <entry key="..\:/Users/ana.cordeiro/AndroidStudioProjects/COVID192/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2235" />
         <entry key="..\:/Users/ana.cordeiro/AndroidStudioProjects/COVID192/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.2235" />
         <entry key="..\:/Users/ana.cordeiro/AndroidStudioProjects/COVID192/app/src/main/res/layout/activity_alert.xml" value="0.22447916666666667" />
-        <entry key="..\:/Users/ana.cordeiro/AndroidStudioProjects/COVID192/app/src/main/res/layout/activity_ambiente.xml" value="0.22" />
+        <entry key="..\:/Users/ana.cordeiro/AndroidStudioProjects/COVID192/app/src/main/res/layout/activity_ambiente.xml" value="0.5" />
         <entry key="..\:/Users/ana.cordeiro/AndroidStudioProjects/COVID192/app/src/main/res/layout/activity_bluetooth.xml" value="0.25" />
         <entry key="..\:/Users/ana.cordeiro/AndroidStudioProjects/COVID192/app/src/main/res/layout/activity_connected.xml" value="0.10916919959473151" />
         <entry key="..\:/Users/ana.cordeiro/AndroidStudioProjects/COVID192/app/src/main/res/layout/activity_home.xml" value="0.22447916666666667" />
@@ -32,6 +32,10 @@
         <entry key="..\:/Users/ana.cordeiro/AndroidStudioProjects/COVID192/app/src/main/res/layout/connected.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/ana.cordeiro/AndroidStudioProjects/COVID192/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.231" />
         <entry key="..\:/Users/ana.cordeiro/AndroidStudioProjects/COVID192/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.231" />
+        <entry key="..\:/Users/jguil/Downloads/COVID192/app/src/main/res/layout/activity_ambiente.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/jguil/Downloads/COVID192/app/src/main/res/layout/activity_bluetooth.xml" value="0.2" />
+        <entry key="..\:/Users/jguil/Downloads/COVID192/app/src/main/res/layout/activity_next_ambiente.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/jguil/Downloads/COVID192/app/src/main/res/layout/activity_timer.xml" value="0.17074275362318841" />
       </map>
     </option>
   </component>
