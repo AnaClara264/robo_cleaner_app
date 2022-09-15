@@ -114,9 +114,15 @@ class TimerActivity : AppCompatActivity() {
         finish()
     }
 
+<<<<<<< Updated upstream
     private class ConnectToDevice(c: Context) : AsyncTask<Void, Void, String>(){
         private var connectSucess: Boolean = true
         private val context: Context
+=======
+    private fun contador() {
+        var contando = false
+        var time = 60000
+>>>>>>> Stashed changes
 
         init{
             this.context = c
@@ -144,6 +150,7 @@ class TimerActivity : AppCompatActivity() {
             return null.toString()
         }
 
+<<<<<<< Updated upstream
         override fun onPostExecute(result: String?) {
             super.onPostExecute(result)
             if(!connectSucess){
@@ -152,6 +159,11 @@ class TimerActivity : AppCompatActivity() {
                 m_isConnected = true
             }
             m_progress.dismiss()
+=======
+        } else if (contando == true) {
+            val intent = Intent(this@TimerActivity, AlertActivity::class.java)
+            startActivity(intent)
+>>>>>>> Stashed changes
         }
     }
 }
