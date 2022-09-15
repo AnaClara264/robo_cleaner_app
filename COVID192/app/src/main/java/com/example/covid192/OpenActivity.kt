@@ -12,7 +12,7 @@ class OpenActivity : AppCompatActivity() {
         supportActionBar?.hide()
 
         Handler().postDelayed({
-            val intent = Intent(this, AlertActivity::class.java)
+            val intent = Intent(this@OpenActivity, AlertActivity::class.java)
             startActivity(intent)
         }, 3000)
     }

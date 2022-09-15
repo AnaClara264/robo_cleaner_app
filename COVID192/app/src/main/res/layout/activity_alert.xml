@@ -66,8 +66,7 @@
             android:padding="20dp"
             android:text="TOQUE PARA INICIAR"
             android:textColor="@color/opaco"
-            android:textSize="16dp"
-            android:background="@drawable/custom_button"/>
+            android:textSize="16dp" />
 
     </LinearLayout>
 
