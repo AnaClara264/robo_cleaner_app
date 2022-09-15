@@ -8,16 +8,10 @@ import android.widget.*
 import androidx.appcompat.app.AppCompatActivity
 import com.example.covid192.databinding.ActivityAmbienteBinding
 
-const val EXTRA_MESSAGE = "com.example.covid192.MESSAGE"
 
 class AmbienteActivity : AppCompatActivity() {
-
-    private lateinit var binding: ActivityAmbienteBinding
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        binding = ActivityAmbienteBinding.inflate(layoutInflater)
-        setContentView(binding.root)
 
         supportActionBar?.hide()
 
